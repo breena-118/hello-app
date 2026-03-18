@@ -1,7 +1,3 @@
 # hello-app
 
-UC2: Display Hello with Command-Line Argument
-
-Example:
-java HelloApp Breena
-Output: Hello, Breena!
+Hello App – Simple Java Hello World Application for Learning Git and GitFlow
